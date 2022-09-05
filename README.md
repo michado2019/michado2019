@@ -11,7 +11,7 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 - 🌱 I’m currently learning JavaScript, Reactjs, and Material UI.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer and Front Engineer(Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1rdklE1nOA99g-a7Pi7Q57G6YBT3Jjh9ENOSSHNQHET4) and contact me by emailing adeshinaobafemi09@gmail.com.
+- 📫 You can [view my resume](https://lh3.google.com/u/0/d/16N4n5-1gm3RJSk0mwPwrYWPMP9Ev3ly7=w231-h173-p-k-nu-iv1) and contact me by emailing adeshinaobafemi09@gmail.com.
 
 ---
 
